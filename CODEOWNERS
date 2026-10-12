@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lokhi
+/src/backend/database.py      @lokhi
+/src/backend/routers/auth.py  @lokhi
+
+# Frontend changes need maintainer review.
+/src/static/                  @lokhi
